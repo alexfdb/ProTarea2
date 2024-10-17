@@ -1,6 +1,6 @@
 # ProTarea2
-1º DAM Segunda tanda de tareas de programación.
-Condicionales.
-Matrices.
-Bucles.
-Clases.
+1º DAM Segunda tanda de tareas de programación. <br>
+Condicionales. <br>
+Matrices. <br>
+Bucles. <br>
+Clases. <br>
